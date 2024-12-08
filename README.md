@@ -7,5 +7,5 @@
 ```pip install requirements.txt```
 3. RUN commands below:
 ```python
-python test.py
+python main.py
 ```
